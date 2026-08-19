@@ -6,7 +6,7 @@ spec:
   ingressClassName: nginx
 
   rules:
-    - host: goaapp.in
+    - host: ravijha.work.gd                      #add your own domain if you have or else update etc/hosts with goaapp.in
       http:
         paths:
           - path: /
