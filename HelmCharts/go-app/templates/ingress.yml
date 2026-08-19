@@ -6,7 +6,7 @@ spec:
   ingressClassName: nginx
 
   rules:
-    - host: ravijha.work.gd
+    - host: www.ravijha.work.gd
       http:
         paths:
           - path: /
